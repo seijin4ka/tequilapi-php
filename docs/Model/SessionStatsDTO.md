@@ -1,0 +1,14 @@
+# # SessionStatsDTO
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**count** | **int** |  | [optional]
+**count_consumers** | **int** |  | [optional]
+**sum_bytes_received** | **int** |  | [optional]
+**sum_bytes_sent** | **int** |  | [optional]
+**sum_duration** | **int** |  | [optional]
+**sum_tokens** | **string** |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
