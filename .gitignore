@@ -16,3 +16,6 @@ composer.phar
 
 # MySterium Wallet file
 keystore.json
+
+# rclone config
+rclone.conf

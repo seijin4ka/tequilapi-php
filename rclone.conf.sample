@@ -1,0 +1,8 @@
+[mega]
+type = mega
+user = username@gmail.com
+pass = passwordhash...
+
+[Wallet]
+type = alias
+remote = mega:Code/Wallet
